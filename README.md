@@ -24,7 +24,7 @@ I'm actively building expertise in:
 
 ### ✨ What Drives Me
 
-I'm a proactive individual who consistently seeks solutions and ways to improve. My greatest strengths include staying organized and efficiently managing multiple tasks. I’m excited to use my tech skills, leadership experience, and love for problem-solving to build meaningful solutions and make a real impact.".
+I'm a proactive individual who consistently seeks solutions and ways to improve. My greatest strengths include staying organized and efficiently managing multiple tasks. I’m excited to use my tech skills, leadership experience, and love for problem-solving to build meaningful solutions and make a real impact.
 
 ---
 
