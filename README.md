@@ -24,7 +24,7 @@ I'm actively building expertise in:
 
 ### ✨ What Drives Me
 
-I'm a proactive individual who consistently seeks solutions and ways to improve. My greatest strengths include staying organized and efficiently managing multiple tasks. I'm eager to apply my diverse technical skills, leadership experience, and problem-solving abilities to innovative challenges in AI and software development.
+I'm a proactive individual who consistently seeks solutions and ways to improve. My greatest strengths include staying organized and efficiently managing multiple tasks. I’m excited to use my tech skills, leadership experience, and love for problem-solving to build meaningful solutions and make a real impact.".
 
 ---
 
@@ -34,5 +34,6 @@ Feel free to reach out for collaborations, discussions, or just to say hi!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garima-khandelwal-4b3967269/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Garima-Khandelwal-1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/garimakhandelwal02/)
 
 ---
